@@ -1,0 +1,6 @@
+@PC212242.UPractica.Clerky.Platform_HostAddress = http://localhost:5055
+
+GET {{PC212242.UPractica.Clerky.Platform_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
